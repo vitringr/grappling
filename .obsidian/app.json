@@ -1,0 +1,21 @@
+{
+  "defaultViewMode": "preview",
+  "livePreview": false,
+  "autoPairMarkdown": false,
+  "tabSize": 4,
+  "autoConvertHtml": false,
+  "vimMode": true,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "nodes",
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "resources",
+  "showInlineTitle": false,
+  "promptDelete": false,
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}
