@@ -7,11 +7,12 @@ tags:
 
 **Escape**:
 **Fallback**:
-**Transition**:
+[[Side Control (top)]]
 
-**Upgrade**:
+**Transition**:
 [[Mount (top)]]
 
+**Upgrade**:
 **Sweep**:
 **Pass**:
 **Submission**:

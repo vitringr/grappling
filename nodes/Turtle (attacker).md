@@ -3,16 +3,16 @@ tags:
   - "#T4"
 ---
 
-# Turtle Kimura (attacker)
+# Turtle (attacker)
 
 **Escape**:
 **Fallback**:
+
 **Transition**:
-[[Hedgehog Kimura (top)]]
+[[Highground (attacker)]]
+[[Front Headlock (attacker)]]
 
 **Upgrade**:
-[[Kimura Padlock (attacker)]]
-
 **Sweep**:
 **Pass**:
 **Submission**:

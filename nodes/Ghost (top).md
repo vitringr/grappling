@@ -3,16 +3,18 @@ tags:
   - "#T4"
 ---
 
-# Turtle Kimura (attacker)
+# Ghost (top)
+
+Ghostbuster to switch side in top side control again.
 
 **Escape**:
 **Fallback**:
+
 **Transition**:
-[[Hedgehog Kimura (top)]]
+[[Side Control (top)]]
 
 **Upgrade**:
-[[Kimura Padlock (attacker)]]
-
 **Sweep**:
 **Pass**:
 **Submission**:
+

@@ -5,6 +5,8 @@ tags:
 
 # Half Guard (bottom)
 
+Always on the side, not flat.
+
 Two on one control for safety.
 
 Stuff to get:
@@ -17,9 +19,9 @@ Stuff to get:
 Vagner kick: [[Standup (both)]]
 
 **Fallback**:
-[[Turtle (defender)]]
 
 **Transition**:
+[[Turtle (defender)]]
 [[Knee Shield (bottom)]]
 [[Lockdown (attacker)]]
 [[Half-Butterfly (bottom)]]
@@ -29,4 +31,3 @@ Lever sweep: [[Half Guard (top)]] or [[Knee Shield (top)]]
 
 **Upgrade**:
 [[Dogfight (under)]]
-[[Turtle Kimura (attacker)]]

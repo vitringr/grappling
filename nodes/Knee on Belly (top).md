@@ -3,15 +3,14 @@ tags:
   - "#T4"
 ---
 
-# Turtle Kimura (attacker)
+# Knee on Belly (top)
 
 **Escape**:
 **Fallback**:
 **Transition**:
-[[Hedgehog Kimura (top)]]
 
 **Upgrade**:
-[[Kimura Padlock (attacker)]]
+[[Mount (top)]]
 
 **Sweep**:
 **Pass**:
