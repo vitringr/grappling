@@ -1,18 +1,19 @@
 ---
 tags:
-  - "#T6"
+  - "#T2"
 ---
 
-# Crucifix (attacker)
+# Side Control (bottom)
+
+Ghost escape!
 
 **Escape**:
-**Fallback**:
-[[TV (attacker)]]
+[[Ghost (bottom)]]
 
+**Fallback**:
 **Transition**:
 **Upgrade**:
 **Sweep**:
 **Pass**:
-
 **Submission**:
-- RNC
+

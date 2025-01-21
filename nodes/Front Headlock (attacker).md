@@ -1,18 +1,17 @@
 ---
 tags:
-  - "#T6"
+  - "#T4"
 ---
 
-# Crucifix (attacker)
+# Front Headlock (attacker)
 
 **Escape**:
 **Fallback**:
-[[TV (attacker)]]
-
 **Transition**:
+[[Highground (attacker)]]
+
 **Upgrade**:
 **Sweep**:
 **Pass**:
-
 **Submission**:
-- RNC
+

@@ -3,16 +3,13 @@ tags:
   - "#T6"
 ---
 
-# Crucifix (attacker)
+# Darce (attacker)
 
 **Escape**:
 **Fallback**:
-[[TV (attacker)]]
-
 **Transition**:
 **Upgrade**:
 **Sweep**:
 **Pass**:
-
 **Submission**:
-- RNC
+

@@ -7,7 +7,10 @@ tags:
 
 **Escape**:
 **Fallback**:
+
 **Transition**:
+[[Crucifix (attacker)]]
+
 **Upgrade**:
 **Sweep**:
 **Pass**:

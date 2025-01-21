@@ -12,6 +12,7 @@ tags:
 
 **Upgrade**:
 [[TV Triangle (attacker)]]
+[[Crucifix (attacker)]]
 
 **Sweep**:
 **Pass**:
