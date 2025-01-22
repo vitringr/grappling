@@ -13,3 +13,8 @@ Kimura
 
 **Upgrade**:
 [[Back (attacker)]]
+[[Backmount (attacker)]]
+
+**Submission**:
+- Side RNC
+- Ezekiel

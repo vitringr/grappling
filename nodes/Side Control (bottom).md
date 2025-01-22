@@ -5,14 +5,19 @@ tags:
 
 # Side Control (bottom)
 
-Ghost escape!
+Ghost escape.
 
 **Escape**:
 [[Ghost (bottom)]]
 
 **Fallback**:
-**Transition**:
+
+**Downgrade**:
+[[North-South (bottom)]]
+
 **Upgrade**:
+[[Half Guard (bottom)]]
+
 **Sweep**:
 **Pass**:
 **Submission**:

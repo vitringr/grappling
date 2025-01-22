@@ -10,6 +10,8 @@ tags:
 [[TV (attacker)]]
 
 **Transition**:
+[[TV Head Scissor (attacker)]]
+
 **Upgrade**:
 **Sweep**:
 **Pass**:
