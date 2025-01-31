@@ -1,15 +1,16 @@
 ---
 tags:
-  - "#T3"
+  - "#T6"
 ---
 
-# Outside Ashi Grounded (attacker)
+# Backside 50-50 (attacker)
 
 **Escape**:
 **Fallback**:
-**Transition**:
 [[50-50]]
+**Transition**:
 **Upgrade**:
 **Sweep**:
 **Pass**:
 **Submission**:
+- Heel hook

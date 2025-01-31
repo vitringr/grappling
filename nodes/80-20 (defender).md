@@ -1,15 +1,15 @@
 ---
 tags:
-  - "#T3"
+  - "#T1"
 ---
 
-# Outside Ashi Grounded (attacker)
+# 80-20 (defender)
 
 **Escape**:
 **Fallback**:
 **Transition**:
-[[50-50]]
 **Upgrade**:
+[[50-50]]
 **Sweep**:
 **Pass**:
 **Submission**:
