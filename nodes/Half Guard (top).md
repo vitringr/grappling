@@ -14,4 +14,4 @@ tags:
 [[Mount (top)]]
 
 **Submission**:
-[[Arm Triangle (attacker)]]
+[[Arm Triangle (att)]]

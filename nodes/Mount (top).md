@@ -22,6 +22,6 @@ Almost all of the progression comes from lifting the opponents elbow up.
 [[Technical Mount (top)]]
 
 **Submission**:
-- [[Mount Arm Triangle (attacker)]]
+- [[Mount Arm Triangle (att)]]
 - Ezekiel Choke.
 - Punch Choke.

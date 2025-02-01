@@ -1,17 +1,21 @@
 ---
 tags:
-  - "#T4"
+  - "#T3"
 ---
 
-# Knee Shield (top)
+# Single Leg (att)
 
 **Escape**:
 **Fallback**:
+
 **Transition**:
-[[Weave (top)]]
-[[Half Guard (top)]]
+[[Double Leg (att)]]
 
 **Upgrade**:
+
+**Takedown**:
+[[Standing vs Seated]]
+
 **Sweep**:
 **Pass**:
 **Submission**:

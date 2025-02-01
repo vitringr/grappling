@@ -17,6 +17,6 @@ Turn his face towards the floor.
 **Upgrade**:
 [[Mount (top)]]
 
-[[Back (attacker)]] or [[Backmount (attacker)]]: Turn his face towards the floor.
+[[Back (att)]] or [[Backmount (att)]]: Turn his face towards the floor.
 
 **Submission**:

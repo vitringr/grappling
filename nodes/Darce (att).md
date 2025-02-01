@@ -1,17 +1,15 @@
 ---
 tags:
-  - "#T4"
+  - "#T6"
 ---
 
-# Knee Shield (top)
+# Darce (att)
 
 **Escape**:
 **Fallback**:
 **Transition**:
-[[Weave (top)]]
-[[Half Guard (top)]]
-
 **Upgrade**:
 **Sweep**:
 **Pass**:
 **Submission**:
+

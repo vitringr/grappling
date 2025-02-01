@@ -1,17 +1,20 @@
 ---
 tags:
-  - "#T4"
+  - "#T6"
 ---
 
-# Knee Shield (top)
+# TV Triangle (att)
 
 **Escape**:
 **Fallback**:
+
 **Transition**:
-[[Weave (top)]]
-[[Half Guard (top)]]
+[[Crucifix (att)]]
 
 **Upgrade**:
 **Sweep**:
 **Pass**:
+
 **Submission**:
+- Triangle finish
+- Kimura/Americana finish

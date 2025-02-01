@@ -1,17 +1,18 @@
 ---
 tags:
-  - "#T4"
+  - "#T5"
 ---
 
-# Knee Shield (top)
+# North-South Kimura (att)
 
 **Escape**:
 **Fallback**:
 **Transition**:
-[[Weave (top)]]
-[[Half Guard (top)]]
+[[TV (att)]]
 
 **Upgrade**:
 **Sweep**:
 **Pass**:
+
 **Submission**:
+- Kimura

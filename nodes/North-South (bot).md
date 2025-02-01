@@ -1,15 +1,17 @@
 ---
 tags:
-  - "#T4"
+  - "#T2"
 ---
 
-# Knee Shield (top)
+# North-South (bot)
 
 **Escape**:
+[[Turtle (def)]]
+
 **Fallback**:
+
 **Transition**:
-[[Weave (top)]]
-[[Half Guard (top)]]
+[[Side Control (bot)]]
 
 **Upgrade**:
 **Sweep**:

@@ -3,15 +3,15 @@ tags:
   - "#T4"
 ---
 
-# Knee Shield (top)
+# Front Headlock (att)
 
 **Escape**:
 **Fallback**:
 **Transition**:
-[[Weave (top)]]
-[[Half Guard (top)]]
+[[Highground (att)]]
 
 **Upgrade**:
 **Sweep**:
 **Pass**:
 **Submission**:
+

@@ -1,17 +1,20 @@
 ---
 tags:
-  - "#T4"
+  - "#T6"
 ---
 
-# Knee Shield (top)
+# Crucifix (att)
 
 **Escape**:
 **Fallback**:
+[[TV (att)]]
+
 **Transition**:
-[[Weave (top)]]
-[[Half Guard (top)]]
+[[TV Head Scissor (att)]]
 
 **Upgrade**:
 **Sweep**:
 **Pass**:
+
 **Submission**:
+- RNC

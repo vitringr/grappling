@@ -1,15 +1,14 @@
 ---
 tags:
-  - "#T4"
+  - "#T6"
 ---
 
-# Knee Shield (top)
+# TV Head Scissor (att)
 
 **Escape**:
 **Fallback**:
 **Transition**:
-[[Weave (top)]]
-[[Half Guard (top)]]
+[[TV Triangle (att)]]
 
 **Upgrade**:
 **Sweep**:

@@ -1,15 +1,15 @@
 ---
 tags:
-  - "#T4"
+  - "#T3"
 ---
 
-# Knee Shield (top)
+# Seated vs Standing
 
 **Escape**:
 **Fallback**:
+
 **Transition**:
-[[Weave (top)]]
-[[Half Guard (top)]]
+[[Standup]]
 
 **Upgrade**:
 **Sweep**:

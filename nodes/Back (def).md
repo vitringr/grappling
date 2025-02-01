@@ -1,16 +1,13 @@
 ---
 tags:
-  - "#T4"
+  - "#T1"
 ---
 
-# Knee Shield (top)
+# Back (def)
 
 **Escape**:
 **Fallback**:
 **Transition**:
-[[Weave (top)]]
-[[Half Guard (top)]]
-
 **Upgrade**:
 **Sweep**:
 **Pass**:

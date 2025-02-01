@@ -1,17 +1,21 @@
 ---
 tags:
-  - "#T4"
+  - "#T2"
 ---
 
-# Knee Shield (top)
+# Side Control (bot)
+
+Ghost escape.
 
 **Escape**:
+[[Ghost (bot)]]
+
 **Fallback**:
-**Transition**:
-[[Weave (top)]]
-[[Half Guard (top)]]
 
 **Upgrade**:
+[[Half Guard (bot)]]
+
 **Sweep**:
 **Pass**:
 **Submission**:
+

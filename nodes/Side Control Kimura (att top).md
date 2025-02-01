@@ -1,15 +1,16 @@
 ---
 tags:
-  - "#T4"
+  - "T5"
 ---
 
-# Knee Shield (top)
+# Side Control Kimura (att top)
 
 **Escape**:
 **Fallback**:
+[[Side Control (top)]]
+
 **Transition**:
-[[Weave (top)]]
-[[Half Guard (top)]]
+[[Mount (top)]]
 
 **Upgrade**:
 **Sweep**:

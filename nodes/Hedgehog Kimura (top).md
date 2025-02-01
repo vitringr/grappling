@@ -14,9 +14,9 @@ When rolling on top of him, try to smash his head with your back.
 **Transition**:
 
 **Upgrade**:
-[[Side Control Kimura (attacker top)]]
+[[Side Control Kimura (att top)]]
 [[Mount (top)]]
-[[TV (attacker)]]
+[[TV (att)]]
 
 **Sweep**:
 **Pass**:

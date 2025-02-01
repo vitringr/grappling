@@ -1,17 +1,20 @@
 ---
 tags:
-  - "#T4"
+  - "#T6"
 ---
 
-# Knee Shield (top)
+# Half-Back (att)
 
 **Escape**:
+
 **Fallback**:
+
 **Transition**:
-[[Weave (top)]]
-[[Half Guard (top)]]
+[[Back (att)]]
 
 **Upgrade**:
+
 **Sweep**:
-**Pass**:
+
 **Submission**:
+- RNC

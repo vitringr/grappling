@@ -1,16 +1,15 @@
 ---
 tags:
-  - "#T4"
+  - "T6"
 ---
 
-# Knee Shield (top)
+# Kimura Padlock (att)
 
 **Escape**:
 **Fallback**:
-**Transition**:
-[[Weave (top)]]
-[[Half Guard (top)]]
+[[Hedgehog Kimura (top)]]
 
+**Transition**:
 **Upgrade**:
 **Sweep**:
 **Pass**:

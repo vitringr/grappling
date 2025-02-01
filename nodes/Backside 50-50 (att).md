@@ -1,17 +1,17 @@
 ---
 tags:
-  - "#T4"
+  - "#T6"
 ---
 
-# Knee Shield (top)
+# Backside 50-50 (att)
 
 **Escape**:
 **Fallback**:
-**Transition**:
-[[Weave (top)]]
-[[Half Guard (top)]]
+[[50-50]]
 
+**Transition**:
 **Upgrade**:
 **Sweep**:
 **Pass**:
 **Submission**:
+- Heel hook

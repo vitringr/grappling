@@ -1,17 +1,18 @@
 ---
 tags:
-  - "#T4"
+  - "#T3"
 ---
 
-# Knee Shield (top)
+# Lockdown (att)
 
 **Escape**:
+
 **Fallback**:
+
 **Transition**:
-[[Weave (top)]]
-[[Half Guard (top)]]
 
 **Upgrade**:
-**Sweep**:
-**Pass**:
+[[Mad Dogfight (att)]]
+[[Dogfight (under)]]
+
 **Submission**:

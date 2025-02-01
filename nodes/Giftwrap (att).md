@@ -3,14 +3,18 @@ tags:
   - "#T5"
 ---
 
-# Technical Mount (top)
+# Giftwrap (att)
 
 **Fallback**:
 [[Mount (top)]]
 
+**Transition**:
+Kimura
+
 **Upgrade**:
-[[Giftwrap (att)]]
 [[Back (att)]]
+[[Backmount (att)]]
 
 **Submission**:
-[[Mount Triangle (att)]]
+- Side RNC
+- Ezekiel

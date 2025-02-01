@@ -1,16 +1,14 @@
 ---
 tags:
-  - "#T4"
+  - "#T3"
 ---
 
-# Knee Shield (top)
+# Outside Ashi Grounded (att)
 
 **Escape**:
 **Fallback**:
 **Transition**:
-[[Weave (top)]]
-[[Half Guard (top)]]
-
+[[50-50]]
 **Upgrade**:
 **Sweep**:
 **Pass**:

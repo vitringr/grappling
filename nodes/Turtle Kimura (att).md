@@ -3,15 +3,16 @@ tags:
   - "#T4"
 ---
 
-# Knee Shield (top)
+# Turtle Kimura (att)
 
 **Escape**:
 **Fallback**:
 **Transition**:
-[[Weave (top)]]
-[[Half Guard (top)]]
+[[Hedgehog Kimura (top)]]
 
 **Upgrade**:
+[[Kimura Padlock (att)]]
+
 **Sweep**:
 **Pass**:
 **Submission**:

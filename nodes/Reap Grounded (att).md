@@ -3,14 +3,11 @@ tags:
   - "#T4"
 ---
 
-# Knee Shield (top)
+# Reap Grounded (att)
 
 **Escape**:
 **Fallback**:
 **Transition**:
-[[Weave (top)]]
-[[Half Guard (top)]]
-
 **Upgrade**:
 **Sweep**:
 **Pass**:

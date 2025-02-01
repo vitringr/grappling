@@ -3,15 +3,15 @@ tags:
   - "#T4"
 ---
 
-# Knee Shield (top)
+# Lockdown Octopus (att)
 
 **Escape**:
 **Fallback**:
 **Transition**:
-[[Weave (top)]]
-[[Half Guard (top)]]
-
 **Upgrade**:
+
 **Sweep**:
-**Pass**:
+Hip bump: [[Half Guard (top)]]
+
 **Submission**:
+Kimura: if he tries to crossface.
