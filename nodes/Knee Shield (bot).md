@@ -17,7 +17,7 @@ Vagner kick: [[Standup]]
 
 **Upgrade**:
 [[Dogfight (under)]]
-[[Turtle Kimura (att)]]
+[[Shield Kimura (att)]]
 
 **Sweep**:
 **Pass**:
