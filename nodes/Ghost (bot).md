@@ -13,6 +13,8 @@ tags:
 [[Front Headlock (att)]]
 [[Highground (att)]]
 [[Seated (both)]]
+[[Lowground Nelson (att)]]
+[[North-South (top)]]
 
 **Sweep**:
 **Pass**:
